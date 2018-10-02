@@ -1,3 +1,3 @@
-def using_times(x)
+def using_times
 
 end
